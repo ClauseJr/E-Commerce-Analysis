@@ -7,6 +7,12 @@ SELECT * FROM orders;
 
 SELECT * FROM orders;
 
+-- Count of the total customers
+
+SELECT 
+	COUNT(DISTINCT customername)
+FROM orders;
+
 -- Checking for Duplicates
 
 SELECT 
