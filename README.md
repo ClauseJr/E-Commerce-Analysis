@@ -142,3 +142,79 @@ The Customer Insights Dashboard focuses on the analysis of revenue, profitabilit
 <img width="754" height="412" alt="CUSTOMER INSIGHT PAGE 3" src="https://github.com/user-attachments/assets/b5967809-22b7-45c8-88cb-bc4a3c429ca8" />
 
 ---
+
+## Key Areas of Analysis
+
+### 1.	Attrition Overview
+
+-	Overall attrition rate across the company.
+-	Comparison of attrition vs. retention.
+-	Total active employees and leavers.
+
+### 2.	Demographics
+-	Younger employees (<35yrs) had nearly 2x the attrition rate compared to older employees.
+-	Hinger attrition rates on Male employees who were Divorced and also Married compared Female employees whose attritions' rate were higher when Single.
+-	Male employees had a higher attrition rate compared to Female employees though with a minimal difference
+
+<img width="422" height="101" alt="MONTHLY ANALYSIS" src="https://github.com/user-attachments/assets/603e4054-d245-4332-8a94-093def341150" />
+<img width="223" height="98" alt="RETURNS RATES" src="https://github.com/user-attachments/assets/2eeb597f-797a-4c7e-a66b-28de0b98af4d" />
+<img width="284" height="104" alt="PRIORITIES ANALYSIS" src="https://github.com/user-attachments/assets/68feeb89-9211-44df-a58b-f673f1f818f1" />
+
+
+### 3.	 Job Roles & Departments
+-	Finance Representatives experienced the highest attrition rate.
+-	Sales also showed above-average turnover.
+-	Technical roles (e.g. HR, IT) had lower attrition, suggesting job specialization may increase retention.
+
+### 4.	Tenure & Experience
+-	Employees in their first 2-10 years were most likely to leave.
+-	Long-tenured employees (>20 years) showed extremely high attrition.
+-	This highlights the importance of investing in early career development, mentorship and career transition support.
+
+### 5.	Compensation & Income
+-	Employees in lower salary brackets were less likely to leave.
+	-	This highlights the possibility of them not getting another job easly hence high retention
+-	Middle salary ranges had the highest attrition rates.
+-	Very high earners occasionally showed attrition, potentially linked to external opportunities and higher offer bids.
+
+---
+
+## Recommendations
+
+-	Onboarding & Mentorship
+  
+	Strengthen onboarding programs and provide structured career development support during the first 10 years of employment.
+
+-	Compensation Review
+  
+	Reevaluate salary bands and incentive structures, particularly for Middle levels and finance employees.
+
+-	Retention Programs by Demographic
+  
+	Design retention programs around life stages rather than gender, with special attention to employees undergoing life transitions (divorce, new singles, etc.).
+
+-	Work-Life Balance Programs
+  
+	Expand flexible work options and well-being initiatives, especially targeting younger employees who report higher attrition rates.
+
+---
+
+## Limitations & Caveats
+
+-	The dataset is based on HR Analytics Attrition dataset and may not fully reflect a real company.
+-	Some variables (e.g., work-life balance) are self-reported, making them subjective and potentially biased.
+-	External factors not included in the dataset (e.g. geographic job market conditions) may also influence attrition.
+
+---
+
+##  Conclusion
+
+This project demonstrates the practical application of Excel and Power BI in transforming raw Spotify data into meaningful analytical insights. By combining data preparation, modeling, and interactive visualization, the analysis delivers a comprehensive view of music streaming behavior.
+
+---
+
+## References
+1.	SQL for Data Engineering [Data with Baraa](https://www.youtube.com/watch?v=SSKVgrwhzus)
+2.	Data Analytics with [Chandoo](https://www.youtube.com/results?search_query=chandoo)
+
+--- 
