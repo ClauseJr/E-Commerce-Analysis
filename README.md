@@ -37,7 +37,7 @@ Excel was used as the initial data preparation tool to:
 
 This step ensured the dataset was structured and analysis-ready before ingestion into PostgreSQL for analysis.
 
-b. SQL
+b. SQL(PostgreSQL)
 
 The data was intergrated into PostgreSQl for SQL analysis and data cleaning
   -  Data Collection and Transformation
