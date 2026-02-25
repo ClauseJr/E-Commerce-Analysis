@@ -11,7 +11,7 @@ The dataset was structured for interactive visualization in Power BI, supporting
 The interactive Power BI dashboard enables us to:
   -  Analyze sales performance using descriptive statistics and visual analytics
   -  Identify trends in profitability, shipping efficiency and return rates
-  -  Examine products, customers and geographical locations.
+  -  identifying profit leaks and highlighting areas for operational improvement
   -  Understand temporal patterns in return rates and revenue from the global market.
   -  Develop an interactive dashboard suitable for decision-making and storytelling
 
