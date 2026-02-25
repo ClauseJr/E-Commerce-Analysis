@@ -145,37 +145,45 @@ The Customer Insights Dashboard focuses on the analysis of revenue, profitabilit
 
 ## Key Areas of Analysis
 
-### 1.	Attrition Overview
+### 1.	Revenue Analysis
 
--	Overall attrition rate across the company.
--	Comparison of attrition vs. retention.
--	Total active employees and leavers.
+-	Overall revenue analysis per the global market
+-	Revenue analysis of different product subcategory
+-	Analysis of sales per week and per month
 
 ### 2.	Demographics
--	Younger employees (<35yrs) had nearly 2x the attrition rate compared to older employees.
--	Hinger attrition rates on Male employees who were Divorced and also Married compared Female employees whose attritions' rate were higher when Single.
--	Male employees had a higher attrition rate compared to Female employees though with a minimal difference
+-	Consumable products generated higher profits and revenue, since most consumers were consumers.
+-	Alot of revenue were discovered from the Asian Pasifc region followed by Europe.
+-	Alot of Orders were made from the standard mode of shipment, as a preference of most of the customers.
 
 <img width="422" height="101" alt="MONTHLY ANALYSIS" src="https://github.com/user-attachments/assets/603e4054-d245-4332-8a94-093def341150" />
 <img width="223" height="98" alt="RETURNS RATES" src="https://github.com/user-attachments/assets/2eeb597f-797a-4c7e-a66b-28de0b98af4d" />
 <img width="284" height="104" alt="PRIORITIES ANALYSIS" src="https://github.com/user-attachments/assets/68feeb89-9211-44df-a58b-f673f1f818f1" />
 
 
-### 3.	 Job Roles & Departments
--	Finance Representatives experienced the highest attrition rate.
--	Sales also showed above-average turnover.
--	Technical roles (e.g. HR, IT) had lower attrition, suggesting job specialization may increase retention.
+### 3.	 Product Category and Subcategory
+-	Average sales performance of each product category:
+	-	Technology 37.58%
+	-	Furniture 32.53%
+	-	Office Supplies 29.89%
+-	The was a margin rise in the net profits of each product category
+-	Higher orders were made for Office supplies at over 60%, though the revenue encountered was minimal.
+-	Tables product subcategory had no impact in profit generation, since no orders were made by any customer.
 
-### 4.	Tenure & Experience
--	Employees in their first 2-10 years were most likely to leave.
--	Long-tenured employees (>20 years) showed extremely high attrition.
--	This highlights the importance of investing in early career development, mentorship and career transition support.
+### 4.	Customer Orders and Segments
+-	Consumable Orders were highly ordered made by alot of customers, followed by corporate orders.
+-	Higher orders were made from Asian pacific by segments, product category and subcategory.
+-	The return rate of orders was quite low at 11% across the 4 years.
 
-### 5.	Compensation & Income
--	Employees in lower salary brackets were less likely to leave.
-	-	This highlights the possibility of them not getting another job easly hence high retention
--	Middle salary ranges had the highest attrition rates.
--	Very high earners occasionally showed attrition, potentially linked to external opportunities and higher offer bids.
+### 5.	Profits and Shipping Cost from sales
+-	Higher Profits were encountered from Technology -> Office Supplies -> Furniture and this was proportional to the total shipping cost                                                  
+	-	This highlights that the management should maximize on the sales of Technology items such as phones and accessories.
+-	Based on the order of Priority, a lot of profits were encountered from the medium class of priorities and least orders were made in the low class of priorities.
+-	A lot of profits were made based on the shipping modes as follows
+	-	Standard Class Delivery 59.31%
+	-	Second Class Delivery 20.25%
+	-	First Class Delivery 15.18%
+	-	Same Day Delivery 5.25%
 
 ---
 
