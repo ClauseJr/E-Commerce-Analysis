@@ -167,12 +167,12 @@ The Customer Insights Dashboard focuses on the analysis of revenue, profitabilit
 	-	Office Supplies 29.89%
 -	The was a margin rise in the net profits of each product category
 -	Higher orders were made for Office supplies at over 60%, though the revenue encountered was minimal.
--	Tables product subcategory had no impact in profit generation, since no orders were made by any customer.
+-	Tables product subcategory had a huge impact on profit generation, since a loss of $63.8k was encountered
 
 ### 4.	Customer Orders and Segments
 -	Consumable Orders were highly ordered made by alot of customers, followed by corporate orders.
 -	Higher orders were made from Asian pacific by segments, product category and subcategory.
--	The return rate of orders was quite low at 11% across the 4 years.
+-	The return rate of orders was quite high at 11.74% across the 4 years which reveals a lot of loss from the e-commerce
 
 ### 5.	Profits and Shipping Cost from sales
 -	Higher Profits were encountered from Technology -> Office Supplies -> Furniture and this was proportional to the total shipping cost                                                  
@@ -219,19 +219,12 @@ The Customer Insights Dashboard focuses on the analysis of revenue, profitabilit
 -	Tactics:
 	-	Prioritize Europe and Asia Pacific, which show strong revenue figures and profits.
 	-	Investigate the Africa market ($0.09M); assess if growth potential justifies continued investment.
----
-
-## Limitations & Caveats
-
--	The dataset is based on HR Analytics Attrition dataset and may not fully reflect a real company.
--	Some variables (e.g., work-life balance) are self-reported, making them subjective and potentially biased.
--	External factors not included in the dataset (e.g. geographic job market conditions) may also influence attrition.
 
 ---
 
 ##  Conclusion
 
-This project demonstrates the practical application of Excel and Power BI in transforming raw Spotify data into meaningful analytical insights. By combining data preparation, modeling, and interactive visualization, the analysis delivers a comprehensive view of music streaming behavior.
+This analysis reveals a fundamentally sound e-commerce operation generating $12.74M in revenue, yet concealing critical profit erosion within the Furniture category, where Tables alone account for a $63.8K loss. The 11.74% return rate further compounds revenue leakage and undermines customer lifetime value, demanding immediate root cause investigation. To achieve sustainable growth, the business must pivot from a revenue-centric model to one focused on margin protection, return mitigation, and segment-specific retention strategies.
 
 ---
 
