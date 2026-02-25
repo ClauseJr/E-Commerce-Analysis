@@ -132,8 +132,7 @@ Key Insights:
   -  Copiers, Phones and Bookcases were the higher product subcategories that contributed to the higher performance in profts
   -  Their were higher performance of revenue per week on Mondays, Fridays and Sundays, and this was as a result in the number of orders
  
-    
-<img width="752" height="410" alt="REVENUE INSIGHT PAGE 2" src="https://github.com/user-attachments/assets/b4da5079-0d15-4743-a512-bbf9b536c607" />
+<img width="755" height="410" alt="REVENUE INSIGHT PAGE 2" src="https://github.com/user-attachments/assets/3a94a38a-3816-4bde-a7f5-f090bc06162b" />
 
 ###  3. Customer Insights Dashboard
 
@@ -158,7 +157,7 @@ The Customer Insights Dashboard focuses on the analysis of revenue, profitabilit
 
 <img width="422" height="101" alt="MONTHLY ANALYSIS" src="https://github.com/user-attachments/assets/603e4054-d245-4332-8a94-093def341150" />
 <img width="223" height="98" alt="RETURNS RATES" src="https://github.com/user-attachments/assets/2eeb597f-797a-4c7e-a66b-28de0b98af4d" />
-<img width="284" height="104" alt="PRIORITIES ANALYSIS" src="https://github.com/user-attachments/assets/68feeb89-9211-44df-a58b-f673f1f818f1" />
+<img width="292" height="115" alt="PRIORITIES ANALYSIS" src="https://github.com/user-attachments/assets/a8341400-35f0-4d51-bc96-48c419acdb30" />
 
 
 ### 3.	 Product Category and Subcategory
@@ -189,22 +188,37 @@ The Customer Insights Dashboard focuses on the analysis of revenue, profitabilit
 
 ## Recommendations
 
--	Onboarding & Mentorship
+### 1. Profitability: Restructure the Furniture Category
   
-	Strengthen onboarding programs and provide structured career development support during the first 10 years of employment.
+-	Immediate Action: Investigate the Tables sub-category, which is operating at a -$63.8K loss.
+-	Tactics:
+	-	Renegotiate supplier costs or increase selling prices to ensure a positive margin.
+	-	Analyze shipping costs for bulky items; consider flat-rate freight options.
 
--	Compensation Review
+### 2. Customer Retention: Reduce the High Return Rate
   
-	Reevaluate salary bands and incentive structures, particularly for Middle levels and finance employees.
+-	Immediate Action: Conduct a root cause analysis on the 11.74% return rate (~6K orders).
+-	Tactics:
+	-	Implement post-return surveys to capture reasons (Damage, Size, Quality).
+	-	Cross-reference returns by category; Furniture and Technology are likely culprits due to high value/complexity.
+   
+### 3. Segment Strategy: Double Down on High-Value Groups
+-	Immediate Action: Develop targeted retention campaigns for the Consumer segment and acquisition strategies for Corporate clients.
+-	Tactics:
+	-	Consumer (6.5M): Launch a loyalty program to increase purchase frequency.
+	-	Corporate (3.9M): Create a B2B portal with volume discounts and dedicated account management.
 
--	Retention Programs by Demographic
+### 4. Shipping Optimization: Leverage the "Standard Class" Advantage
   
-	Design retention programs around life stages rather than gender, with special attention to employees undergoing life transitions (divorce, new singles, etc.).
-
--	Work-Life Balance Programs
-  
-	Expand flexible work options and well-being initiatives, especially targeting younger employees who report higher attrition rates.
-
+-	Immediate Action: Use the popularity of Standard Class to drive higher average order values.
+-	Tactics:
+	-	Introduce a "Free Standard Shipping on Orders Over 60%" threshold.
+	-	Evaluate the ROI of premium shipping (Same Day/First Class) in regions with low adoption.
+### 5. Regional Growth: Focus on Profitable Markets
+-	Immediate Action: Shift focus from pure revenue to profitability by region.
+-	Tactics:
+	-	Prioritize Europe and Asia Pacific, which show strong revenue figures and profits.
+	-	Investigate the Africa market ($0.09M); assess if growth potential justifies continued investment.
 ---
 
 ## Limitations & Caveats
